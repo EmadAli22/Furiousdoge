@@ -4,9 +4,7 @@
         {
             "id": "blockchain",
             "name": "Blockchain",
-            "description": "Native cryptocurrencies on major blockchains."
-        },
-        {
+            "description": "Native cryptocurrencies on major blo
             "id": "dexes",
             "name": "DEXes",
             "description": "Decentralized cryptocurrency exchanges."
