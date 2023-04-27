@@ -7,7 +7,7 @@
 
     "coins": [
         {
-            "id": 
+            "id": "unsupported|01coin",
             "code": "zoc",
             "name": "01coin",
             "external_id": { "coingecko": "01coin", "cryptocompare": "ZOC" }
